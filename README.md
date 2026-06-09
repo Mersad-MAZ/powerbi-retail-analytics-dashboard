@@ -98,11 +98,6 @@ MavenMarket_CSV/
 
 ---
 
-## Screenshots
-
-Add screenshots of dashboard pages in an `images/` folder to provide a visual overview of the report.
-
----
 
 ## Author
 
